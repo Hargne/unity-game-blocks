@@ -2,6 +2,9 @@ using UnityEngine;
 
 namespace GameBlocks.References
 {
-    [System.Serializable]
-    public class ColorReference : Base.ScriptableObjectReference<Color, Variables.ColorVariable> { }
+	[System.Serializable]
+	public class ColorReference : Base.ScriptableObjectReference<Color, Variables.ColorVariable>
+	{
+
+	}
 }

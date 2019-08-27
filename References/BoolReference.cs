@@ -1,5 +1,8 @@
 namespace GameBlocks.References
 {
-    [System.Serializable]
-    public class BoolReference : Base.ScriptableObjectReference<bool, Variables.BoolVariable> { }
+	[System.Serializable]
+	public class BoolReference : Base.ScriptableObjectReference<bool, Variables.BoolVariable>
+	{
+
+	}
 }
